@@ -1,0 +1,22 @@
+- - - El juego está preparado para ser jugado desde el archivo con extensión '.exe'
+
+Con respecto al tutorial..;
+- El juego está preparado para ser jugado, siguiendo el juego del tutorial.
+- El jugador se puede mover con las teclas WASD o bien las flechas a la derecha del teclado.
+- La cámara se mueve de forma adecuada, siguiendo los movimientos de la bola, que representa a un jugador.
+- Se ha preparado el juego para que, al principio, el usuario no pueda caerse por colisión de muros.. Y en ambos niveles hay un obstáculo que detiene la caida infinita del jugador y reinicia el nivel.
+
+Hay obstáculos que requieren al usuario que salte con la tecla 'Espacio' del teclado.
+
+El juego contiene 2 escenas con contenido jugable, adaptado a la idea formada tras el tutorial seguido para crearlo (roll-a-ball).
+
+Hay un menú básico creado para la selección de uno de los niveles, al cuál se puede acceder con la tecla de 'Escape' del teclado.
+
+Hay objetos coleccionables por el jugador en ambos niveles, los cuales son requeridos para completar el nivel actual.
+
+Hay 3 aspectos que no han sido contemplados en los criterios de evaluación, y estos son..;
+- En ambos niveles, se ha añadido un objeto de Audio Source, con su propio clip importado por mi (en la carpeta Soundtrack están dichos clips con el nombre de donde provienen)
+- En el nivel 1, cada 'Estrellita' obtenida causa que el terreno pierda opacidad hasta desaparecer.
+- En el nivel 2 existen obstáculos que se mueven independientemente de los movimientos del jugador.
+
+

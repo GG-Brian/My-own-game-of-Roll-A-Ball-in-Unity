@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Default URP template/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: 3f58377a35c0a1f41857b20548bdb9fc
+  - enabled: 1
+    path: Assets/Scenes/Minigame 2.unity
+    guid: d0aa0ac02f48a2b4ebbb110d16950385
+  m_configObjects: {}
